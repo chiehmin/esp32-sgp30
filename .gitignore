@@ -1,0 +1,23 @@
+# Build output directories
+dist/
+build/
+sdkconfig
+sdkconfig.old
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+managed_components/
+dependencies.lock
+
+# OS specific files
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
