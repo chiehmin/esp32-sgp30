@@ -4,7 +4,8 @@ url: https://github.com/chiehmin/esp32-sgp30
 repository: https://github.com/chiehmin/esp32-sgp30.git
 documentation: https://github.com/chiehmin/esp32-sgp30/blob/main/README.md
 issues: https://github.com/chiehmin/esp32-sgp30/issues
-license: Apache-2.0
+maintainers:
+  - Chieh-Min Wang <chiehmin18@gmail.com>
 dependencies:
   idf: ">=4.0.0"
 tags:
@@ -13,4 +14,5 @@ tags:
   - air-quality
   - co2
   - tvoc
-  - sgp30ription: ESP-IDF component for SGP30 Air Quality Sensor
+  - sgp30
+license: Apache-2.0
