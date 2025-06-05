@@ -1,0 +1,18 @@
+version: "1.0.0"
+description: ESP-IDF component for SGP30 Air Quality Sensor
+url: https://github.com/cmwang/esp32-sgp30
+repository: https://github.com/cmwang/esp32-sgp30.git
+documentation: https://github.com/cmwang/esp32-sgp30/blob/main/README.md
+issues: https://github.com/cmwang/esp32-sgp30/issues
+dependencies:
+  idf: ">=4.0.0"
+tags:
+  - sensor
+  - i2c
+  - air-quality
+  - co2
+  - tvoc
+  - sgp30ription: ESP-IDF component for SGP30 Air Quality Sensor
+url: https://github.com/chiehmin/esp32-sgp30
+dependencies:
+  idf: ">=4.0.0"
