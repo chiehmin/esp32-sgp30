@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2025 Chieh-Min Wang
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #include "sgp30/sgp30.h"
 #include "driver/i2c.h"
 #include "esp_log.h"
